@@ -1,7 +1,7 @@
 # from telegram import Update
 # from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-# app = ApplicationBuilder().token("6022340038:AAFqgfIjX-_HOPSmGt14N8Tf2UEPp5zBtts").build()
+# app = ApplicationBuilder().token("").build()
 # app.run_polling()
 
 # async def hello(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
